@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bockbone
+- 👋 Hi, I’m Hafizul
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Nextjs
 - 💞️ I’m looking to collaborate on frontend projects
