@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Hafizul <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
+<h3 align="center">A Front-End developer</h3>
+
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Nextjs
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me ...
+- 📫 How to reach me **fizultm@gmail.com**
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fizultm@gmail.com)
+  
+</div>
 
 <h3 align="center">Languages and Tools:</h3>
 
